@@ -1,0 +1,4 @@
+#include "resource.h"
+
+IDR_WEB_INDEX_HTML  BIN  "web/index.html"
+IDR_ZIP_FOO         BIN  "zip/foo.zip"
